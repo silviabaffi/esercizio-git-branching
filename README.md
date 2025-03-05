@@ -1,6 +1,6 @@
 git add style.css
 
-git add style.html
+git add index.html
 
 git commit -m "Creazione esercizio"
 

@@ -12,4 +12,4 @@ git merge main
 
 git add README.md
 
-git commit -m "Creazione file README con spiegazione dei passaggi dell'esercizio"
+git commit -m "README con comandi utilizzati per l'esercizio"

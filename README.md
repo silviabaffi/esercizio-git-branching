@@ -8,6 +8,8 @@ git branch stile
 
 git checkout stile
 
+git add style.css
+
 git merge main
 
 git add README.md
